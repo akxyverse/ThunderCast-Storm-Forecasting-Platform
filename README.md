@@ -4,6 +4,14 @@
 
 ---
 
+## 🚀 Live Demo
+
+> **Try it now:** [**ThunderCast Live on Streamlit →**](https://akxyverse-thundercast-smart-storm-predictio-dashboardapp-xqeckf.streamlit.app/)
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://akxyverse-thundercast-smart-storm-predictio-dashboardapp-xqeckf.streamlit.app/)
+
+---
+
 ## 📋 Project Overview
 
 ThunderCast is an automated thunderstorm prediction system that uses Facebook Prophet (time-series forecasting) to predict thunderstorm probabilities for Pimpri-Chinchwad, Pune. The system collects real-time weather data, analyzes patterns, and provides predictions with an interactive dashboard.
@@ -245,11 +253,6 @@ python src/scheduler.py
 
 ---
 
-
-
-
-
-
 ## 📝 License
 
 This project is for educational purposes.
@@ -276,4 +279,4 @@ For queries or collaboration:
 
 ---
 
-**Built with ❤️ using Python, Prophet, and Streamlit**"# ThunderCast-Smart-Storm-Prediction-Engine" 
+**Built with ❤️ using Python, Prophet, and Streamlit**
