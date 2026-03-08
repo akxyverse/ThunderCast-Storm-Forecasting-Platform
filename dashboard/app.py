@@ -326,5 +326,5 @@ st.image(
     "https://media.13newsnow.com/assets/WVEC/images/e23dc125-7f4c-4783-8b28-925ec0d61d6f/"
     "e23dc125-7f4c-4783-8b28-925ec0d61d6f_750x422.jpg",
     caption="🌩️ Live Thunderstorm Visual",
-    use_column_width=True
+    use_container_width=True  # ✅ Fixed
 )
