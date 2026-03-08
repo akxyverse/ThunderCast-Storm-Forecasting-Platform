@@ -1,6 +1,14 @@
-# ⚡ ThunderCast: Smart Storm Prediction Engine
+# ⚡ThunderCast: Storm Forecasting Platform
 
 **Real-time Thunderstorm Prediction System using Time-Series Forecasting**
+
+---
+
+## 🚀 Live Demo
+
+> **Try it now:** [**ThunderCast Live on Streamlit →**](https://akxyverse-thundercast-smart-storm-predictio-dashboardapp-xqeckf.streamlit.app/)
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://akxyverse-thundercast-smart-storm-predictio-dashboardapp-xqeckf.streamlit.app/)
 
 ---
 
@@ -245,11 +253,6 @@ python src/scheduler.py
 
 ---
 
-
-
-
-
-
 ## 📝 License
 
 This project is for educational purposes.
@@ -276,4 +279,4 @@ For queries or collaboration:
 
 ---
 
-**Built with ❤️ using Python, Prophet, and Streamlit**"# ThunderCast-Smart-Storm-Prediction-Engine" 
+**Built with ❤️ using Python, Prophet, and Streamlit**
